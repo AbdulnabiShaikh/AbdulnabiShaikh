@@ -1,7 +1,7 @@
 <!---[![MasterHead](https://img.freepik.com/free-vector/web-development-coding-programming-futuristic-banner-computer-code-laptop_3482-5582.jpg?w=1060)](https://rishavchanda.io) -->
 <h1 align="center">Hi 👋, I'm Abdulnabi Shaikh</h1>
 <h3 align="center">An Engineering Student, and pretty much interested in everything thing related to tech😎.</h3>
-<img allign="right" alt="coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
+<img align="right" alt="coding" width="400" src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulnabishaikh&label=Profile%20views&color=0e75b6&style=flat" alt="abdulnabishaikh" /> </p>
 
