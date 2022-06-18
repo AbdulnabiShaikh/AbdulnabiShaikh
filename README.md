@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Upskilling my technical skills**
 
-- 🌱 I’m currently learning **Competitive programming and professional ethics**
+- 🌱 I’m currently learning **Competitive programming and professional Communication ethics**
 
 - 💬 Ask me about **front end development**
 
